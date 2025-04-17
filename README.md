@@ -3,7 +3,7 @@
 - 👀 I’m interested in full-stack development, AI integration, and mobile-first apps  
 - 🌱 Currently learning: ML.NET, React Native, and backend optimization with Node.js + MongoDB  
 - 🤝 Looking to collaborate on: health & wellness apps, smart reminder systems, and open-source projects  
-- 📫 Reach me at: michael.valdez.dev@gmail.com or [LinkedIn](https://www.linkedin.com/in/michael-valdez)  
+- 📫 Reach me at: itsmiekel@gmail.com or [LinkedIn](https://www.linkedin.com/in/itsmeiekel)  
 - 😄 Pronouns: he/him  
 - ⚡ Fun fact: I built a fitness app that reminds you to hydrate *and* cheers you on with badges!
 
