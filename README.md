@@ -12,10 +12,9 @@
 ### 🚀 Featured Projects
 
 - 🌊 **FitRack** — Smart fitness/hydration reminder app with badges, leaderboard, and motivational tracking  
-- 🎶 **Sentimo** — Mood journal + lyrics emotion analyzer powered by NLP  
-- 📈 **PMS (Product Management System)** — WPF app to track and manage sales using EF Core  
-- 🎮 **Trivia Master** — React game with categories, timer, scoring & persistent sessions  
+- 🎶 **Sentimo** — Mood journal + lyrics emotion analyzer powered by NLP
 
+  
 ---
 
 ### 💡 Interests
